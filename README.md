@@ -1,3 +1,4 @@
+<!-- Profile README · github.com/quangngoc1911 -->
 <!-- ====== HEADER BANNER ====== -->
 <a href="https://github.com/quangngoc1911">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:61dafb&height=200&section=header&text=Quang%20Ngoc&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header banner" />
