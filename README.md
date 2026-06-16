@@ -75,6 +75,9 @@
   <a href="https://github.com/quangngoc1911/Web-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangngoc1911&repo=Web-API&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&icon_color=61dafb" width="49%" alt="Web API" />
   </a>
+  <a href="https://github.com/quangngoc1911/management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangngoc1911&repo=management&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&icon_color=61dafb" width="49%" alt="Management" />
+  </a>
 </div>
 
 <br/>
